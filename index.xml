@@ -1,3 +1,39 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>rofe33</title><link>https://rofe33.github.io/</link><description>Recent content on rofe33</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://rofe33.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>One-Page Website Menu for Restaurants</title><link>https://rofe33.github.io/services/one-page-website-menu-for-restaurants/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://rofe33.github.io/services/one-page-website-menu-for-restaurants/</guid><description>&lt;strong>Welcome to One-Page Menu Website For Restaurants&lt;/strong>, where I specialize in creating a compact single page menu for restaurants.</description></item><item><title>Multi-Page Website Menu for Restaurants</title><link>https://rofe33.github.io/services/multi-page-website-menu-for-restaurants/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://rofe33.github.io/services/multi-page-website-menu-for-restaurants/</guid><description>&lt;strong>Welcome to Multi-Page Website Menu For Restaurants&lt;/strong>, where I specialize in creating personalized websites/menu for restaurants. My service is tailored to meet your unique needs, offering a comprehensive solution to establish a strong online presence&amp;hellip;</description></item><item><title>About</title><link>https://rofe33.github.io/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://rofe33.github.io/about/</guid><description>Hi there! 👋 I&amp;rsquo;m Raphael Tannous aka rofe33, studying computer science in my second year at university. When I&amp;rsquo;m not in class, I enjoy exploring new free (as in freedom) and open-source software and learning about open-source tech.
-I love writing code that&amp;rsquo;s both simple and safe. Some of them are left dormant on my computer, and the rest are published on github.
-Feel free to explore my projects. I hope you discover inspiration and something to ignite your motivation, or simply something to captivate your interest.</description></item><item><title>CV</title><link>https://rofe33.github.io/cv/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://rofe33.github.io/cv/</guid><description>Education Computer Science (Bachelor) 2022 - Present at Islamic University of Lebanon Currently in the second year of the program at IUL. Acquired a comprehensive understanding of core computer science concepts. Developed proficiency in programming languages including HTML, CSS, C++, and SQL. For more information about the university and its program, visit https://iul.edu.lb. Internship Full Stack Developer 2023-09-01 - 2023-09-30 at Premium Golden Data Mastered front-end development skills including HTML, CSS, and Javascript.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rofe33</title>
+    <link>https://rofe33.github.io/</link>
+    <description>Recent content on rofe33</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://rofe33.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>One-Page Website Menu for Restaurants</title>
+      <link>https://rofe33.github.io/services/one-page-website-menu-for-restaurants/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://rofe33.github.io/services/one-page-website-menu-for-restaurants/</guid>
+      <description>&lt;strong&gt;Welcome to One-Page Menu Website For Restaurants&lt;/strong&gt;, where I specialize in creating a compact single page menu for restaurants.</description>
+    </item>
+    <item>
+      <title>Multi-Page Website Menu for Restaurants</title>
+      <link>https://rofe33.github.io/services/multi-page-website-menu-for-restaurants/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://rofe33.github.io/services/multi-page-website-menu-for-restaurants/</guid>
+      <description>&lt;strong&gt;Welcome to Multi-Page Website Menu For Restaurants&lt;/strong&gt;,   where   I specialize in  creating personalized websites/menu for restaurants.  My service  is tailored  to meet your  unique   needs,  offering   a  comprehensive solution to establish a strong online presence&amp;hellip;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://rofe33.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://rofe33.github.io/about/</guid>
+      <description>Hi there! 👋 I&amp;rsquo;m Raphael Tannous aka rofe33, studying computer science in my second year at university. When I&amp;rsquo;m not in class, I enjoy exploring new free (as in freedom) and open-source software and learning about open-source tech.&#xA;I love writing code that&amp;rsquo;s both simple and safe. Some of them are left dormant on my computer, and the rest are published on github.&#xA;Feel free to explore my projects. I hope you discover inspiration and something to ignite your motivation, or simply something to captivate your interest.</description>
+    </item>
+    <item>
+      <title>CV</title>
+      <link>https://rofe33.github.io/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://rofe33.github.io/cv/</guid>
+      <description>Education Computer Science (Bachelor) 2022 - Present at Islamic University of Lebanon Currently in the second year of the program at IUL. Acquired a comprehensive understanding of core computer science concepts. Developed proficiency in programming languages including HTML, CSS, C++, and SQL. For more information about the university and its program, visit https://iul.edu.lb. Internship Full Stack Developer 2023-09-01 - 2023-09-30 at Premium Golden Data Mastered front-end development skills including HTML, CSS, and Javascript.</description>
+    </item>
+  </channel>
+</rss>

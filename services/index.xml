@@ -1,1 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Services on rofe33</title><link>https://rofe33.github.io/services/</link><description>Recent content in Services on rofe33</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://rofe33.github.io/services/index.xml" rel="self" type="application/rss+xml"/><item><title>One-Page Website Menu for Restaurants</title><link>https://rofe33.github.io/services/one-page-website-menu-for-restaurants/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://rofe33.github.io/services/one-page-website-menu-for-restaurants/</guid><description>&lt;strong>Welcome to One-Page Menu Website For Restaurants&lt;/strong>, where I specialize in creating a compact single page menu for restaurants.</description></item><item><title>Multi-Page Website Menu for Restaurants</title><link>https://rofe33.github.io/services/multi-page-website-menu-for-restaurants/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://rofe33.github.io/services/multi-page-website-menu-for-restaurants/</guid><description>&lt;strong>Welcome to Multi-Page Website Menu For Restaurants&lt;/strong>, where I specialize in creating personalized websites/menu for restaurants. My service is tailored to meet your unique needs, offering a comprehensive solution to establish a strong online presence&amp;hellip;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on rofe33</title>
+    <link>https://rofe33.github.io/services/</link>
+    <description>Recent content in Services on rofe33</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://rofe33.github.io/services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>One-Page Website Menu for Restaurants</title>
+      <link>https://rofe33.github.io/services/one-page-website-menu-for-restaurants/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://rofe33.github.io/services/one-page-website-menu-for-restaurants/</guid>
+      <description>&lt;strong&gt;Welcome to One-Page Menu Website For Restaurants&lt;/strong&gt;, where I specialize in creating a compact single page menu for restaurants.</description>
+    </item>
+    <item>
+      <title>Multi-Page Website Menu for Restaurants</title>
+      <link>https://rofe33.github.io/services/multi-page-website-menu-for-restaurants/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://rofe33.github.io/services/multi-page-website-menu-for-restaurants/</guid>
+      <description>&lt;strong&gt;Welcome to Multi-Page Website Menu For Restaurants&lt;/strong&gt;,   where   I specialize in  creating personalized websites/menu for restaurants.  My service  is tailored  to meet your  unique   needs,  offering   a  comprehensive solution to establish a strong online presence&amp;hellip;</description>
+    </item>
+  </channel>
+</rss>
