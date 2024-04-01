@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>rofe33</title>
+    <title>rofe33 on Raphael Tannous</title>
     <link>https://rofe33.github.io/</link>
-    <description>Recent content on rofe33</description>
+    <description>Recent content in rofe33 on Raphael Tannous</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <atom:link href="https://rofe33.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -34,6 +34,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://rofe33.github.io/cv/</guid>
       <description>Education Computer Science (Bachelor) 2022 - Present at Islamic University of Lebanon Currently in the second year of the program at IUL. Acquired a comprehensive understanding of core computer science concepts. Developed proficiency in programming languages including HTML, CSS, C++, and SQL. For more information about the university and its program, visit https://iul.edu.lb. Internship Full Stack Developer 2023-09-01 - 2023-09-30 at Premium Golden Data Mastered front-end development skills including HTML, CSS, and Javascript.</description>
+    </item>
+    <item>
+      <title>Rofe33</title>
+      <link>https://rofe33.github.io/rofe33/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://rofe33.github.io/rofe33/</guid>
+      <description>Welcome to my Design Showcase! 🎨 I&amp;rsquo;m rofe33, a Computer Science student fueled by creativity. Although my primary focus is on technology, I&amp;rsquo;m equally passionate about delving into the realms of design and graffiti art.&#xA;Currently, there&amp;rsquo;s nothing to display here except for an animated tag. However, I&amp;rsquo;m excited to announce that I&amp;rsquo;ll be adding a variety of captivating designs and intriguing graffiti pieces in the near future. So, stay tuned for updates and join me on this artistic journey!</description>
     </item>
   </channel>
 </rss>
